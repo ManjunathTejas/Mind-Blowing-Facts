@@ -7,3 +7,6 @@ To run this code you will need to deploy the code on AWS Lambda and configure an
 # Examples
 User: "Alexa, ask brain power to blow my mind"
 Alexa: " Did you know women have a higher chance of getting pregnant than men"
+# Demonstration
+
+https://www.youtube.com/watch?v=V5xDIqB17QM&feature=youtu.be
